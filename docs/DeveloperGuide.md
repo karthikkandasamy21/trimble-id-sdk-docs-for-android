@@ -24,7 +24,7 @@ It orchestrates all the complexities by exposing easy method call for your needs
 
 ## <a name="identity">Authentication with Trimble Identity</a> ##
 
-To utilize TID authentication, your identity application must be registered with Trimble Identity. You can conveniently handle the application registration process on [Trimble Developer Console](https://developer.console.trimble.com).
+To utilize TID authentication, your identity application must be registered with Trimble Identity. You can conveniently handle the application registration process on [Trimble Developer Console](https://console.trimble.com/).
 
 ## <a name="requirements">Requirements</a> ##
 
